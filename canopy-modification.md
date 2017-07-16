@@ -1,5 +1,5 @@
 ---
-Title: Canopy Modification
+title: Canopy Modification
 ---
 
 The battery for your 150X should “snap” into place when you insert it before
