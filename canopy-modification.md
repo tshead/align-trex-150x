@@ -2,6 +2,8 @@
 title: Canopy Modification
 ---
 
+# Canopy Modification
+
 The battery for your 150X should “snap” into place when you insert it before
 flight.  Out of the box, the stock 150X canopies (both plastic and fiberglass)
 interfere with the battery connector, making it difficult-to-impossible to
