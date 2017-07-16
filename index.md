@@ -1,6 +1,10 @@
 Welcome to the Align T-Rex 150X repository, a collection of high-quality
 curated technical notes and resources for the Align T-Rex 150X helicopter.
 
+## Resources
+
+* Information, manual, and setup videos: http://www.align.com.tw/trex150-en/
+* Find up-to-date part numbers (important - many 150X parts are updated from the 150): http://shop.align.com.tw/index.php?cPath=11_21_2944&page=1
 
 ## Troubleshooting Problems
 
