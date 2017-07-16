@@ -3,5 +3,5 @@ curated technical notes and resources for the Align T-REX 150X helicopter.
 
 Visit the site at https://tshead.github.io/align-trex-150x
 
-Make suggestions, corrections, or submit new content using the [issue tracker](issues).
+Make suggestions, corrections, or submit new content using the [issue tracker](https://github.com/tshead/align-trex-150x/issues).
 
