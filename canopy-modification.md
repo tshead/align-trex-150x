@@ -40,4 +40,5 @@ it will be touching the wires on the back of the connector, which are energized 
 
 ![](battery-connector.jpeg)
 
-
+... I like using Q-tips for this purpose, since I already have them among my hobby tools, and they can put sufficient
+gentle pressure on the back of the connector without damaging anything.
