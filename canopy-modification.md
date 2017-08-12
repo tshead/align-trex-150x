@@ -9,10 +9,10 @@ flight … if your battery isn’t fully seated, it will likely come loose, eith
 at startup or during flight.
 
 Unfortunately, two out-of-the-box problems combine to make this difficult.
-First, if you watch closely, you will see that the battery connector flexes
-slightly when you try to snap the battery into place.  Second, the stock 150X
+First, if you watch the battery connector closely while inserting a battery, you will see that it flexes
+slightly, preventing the battery from snapping into place.  Second, the vents in the stock 150X
 canopies (both plastic and fiberglass) prevent you from providing any support
-for the battery connector:
+for the battery connector with a finger:
 
 ![](canopy-modification-before.jpeg)
 
@@ -30,14 +30,13 @@ is nearly impossible to install the unmodified canopy without damaging the
 gelcoat.
 
 If you have a canopy that fits properly to begin with, or you don't want to start
-cutting into a brand-new purchase, an alternative approach is to use a nonconductive
-object to provide pressure on the back of the battery connector when installing a battery:
+cutting into a brand-new purchase, an alternative approach is to use a **nonconductive**
+object to provide pressure on the back of the battery connector while installing a battery:
 
 ![](battery-click.jpeg)
 
-**WARNING** - if you use this approach, be very, very sure that the object you use is nonconductive; I
-like to use a Q-tip, because this procedure puts pressure on the wires on the back of the connector,
-which are energized as soon as the battery is inserted:
+**WARNING** - if you use this approach, be very, very sure that the object you use is nonconductive, since
+it will be touching the wires on the back of the connector, which are energized as soon as the battery is inserted:
 
 ![](battery-connector.jpeg)
 
